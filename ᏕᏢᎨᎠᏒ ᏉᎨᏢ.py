@@ -952,6 +952,7 @@ def menu():
                                 ppp=input(' Choose: ')
                                 if ppp in ['1','01']:
                                         plist.append('first last')
+                                        plist.append('first123')
                                         plist.append('first12345')
                                         plist.append('first last123')
                                         plist.append('first1234qwer')
@@ -989,6 +990,7 @@ def menu():
                                         plist.append('11223344@@@')
                                         plist.append('12345a12345')
                                         plist.append('1234512345@@')
+                                        plist.append('11112222')
                                         plist.append('qwert12345')
                                         plist.append('1122334455@@')
                                         plist.append('112233445566@@')
